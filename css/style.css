@@ -61,7 +61,6 @@ img {
 
 .header-nav {
   display: flex;
-  gap: 40px;
   align-items: center;
 }
 
@@ -214,6 +213,7 @@ img {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  margin: 0;
   margin-bottom: 8px;
 }
 
@@ -222,6 +222,7 @@ img {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  margin: 0;
 }
 
 /* section thirt */
@@ -233,7 +234,6 @@ img {
 .bgcolor-for-team {
   display: flex;
   gap: 24px;
-  background-color: var(--c-bg-thirt);
 }
 
 .title-section-thirt {
@@ -244,6 +244,7 @@ img {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  margin: 0;
   margin-bottom: 72px;
 }
 
@@ -254,8 +255,8 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
+  margin: 0;
   margin-bottom: 8px;
-  padding-left: 16px;
 }
 
 .title-about {
@@ -264,7 +265,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
-  padding-left: 16px;
+  margin: 0;
 }
 
 .bgcolor-for-myteam {
@@ -324,6 +325,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   max-width: 264px;
+  margin: 0;
 }
 .logo-accent-secondary {
   color: var(--c-text-footer);
